@@ -1,0 +1,12 @@
+C:\Users\josue\Documents\FIME\8V0\ADMSIS\Proyecto_Tickets\Proyecto_Tickets_BLL\bin\Debug\Proyecto_Tickets_BLL.dll
+C:\Users\josue\Documents\FIME\8V0\ADMSIS\Proyecto_Tickets\Proyecto_Tickets_BLL\bin\Debug\Proyecto_Tickets_BLL.pdb
+C:\Users\josue\Documents\FIME\8V0\ADMSIS\Proyecto_Tickets\Proyecto_Tickets_BLL\bin\Debug\Poyecto_Tickets_DAL.dll
+C:\Users\josue\Documents\FIME\8V0\ADMSIS\Proyecto_Tickets\Proyecto_Tickets_BLL\bin\Debug\EntityFramework.dll
+C:\Users\josue\Documents\FIME\8V0\ADMSIS\Proyecto_Tickets\Proyecto_Tickets_BLL\bin\Debug\Poyecto_Tickets_DAL.pdb
+C:\Users\josue\Documents\FIME\8V0\ADMSIS\Proyecto_Tickets\Proyecto_Tickets_BLL\bin\Debug\Poyecto_Tickets_DAL.dll.config
+C:\Users\josue\Documents\FIME\8V0\ADMSIS\Proyecto_Tickets\Proyecto_Tickets_BLL\bin\Debug\EntityFramework.xml
+C:\Users\josue\Documents\FIME\8V0\ADMSIS\Proyecto_Tickets\Proyecto_Tickets_BLL\obj\Debug\Proyecto_Tickets_BLL.csprojAssemblyReference.cache
+C:\Users\josue\Documents\FIME\8V0\ADMSIS\Proyecto_Tickets\Proyecto_Tickets_BLL\obj\Debug\Proyecto_Tickets_BLL.csproj.CoreCompileInputs.cache
+C:\Users\josue\Documents\FIME\8V0\ADMSIS\Proyecto_Tickets\Proyecto_Tickets_BLL\obj\Debug\Proyecto_Tickets_BLL.csproj.CopyComplete
+C:\Users\josue\Documents\FIME\8V0\ADMSIS\Proyecto_Tickets\Proyecto_Tickets_BLL\obj\Debug\Proyecto_Tickets_BLL.dll
+C:\Users\josue\Documents\FIME\8V0\ADMSIS\Proyecto_Tickets\Proyecto_Tickets_BLL\obj\Debug\Proyecto_Tickets_BLL.pdb

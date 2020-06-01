@@ -1,0 +1,22 @@
+﻿.ap:hover {
+    background-color: #BF0426 !important;
+}
+
+.lp:hover {
+    background-color: #023059 !important;
+}
+
+.lip {
+    background-color: #30597A !important;
+}
+
+.ip {
+    color: #CEECF2 !important;
+}
+
+.grd {
+    overflow:scroll !important; 
+    max-height: 70vh !important;
+    
+}
+

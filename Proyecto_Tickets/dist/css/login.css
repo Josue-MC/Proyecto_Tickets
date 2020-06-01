@@ -1,0 +1,101 @@
+body{
+background-color: #CEECF2 !important;
+}
+
+h1{
+    color: #ffffff !important;
+}
+
+h2{
+    color: #CEECF2 !important;
+}
+
+.cont1{
+    background-color: #CEECF2;
+    height: 60vh;
+}
+
+.fo1{
+    background-image: url("../IMG/fo1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.fo2{
+    background-image: url("../IMG/fo2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.cont2{
+    /*
+    background-image: url("../IMG/logtop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    */
+    
+    background-color: #023059;
+    max-width: 800px !important ;
+    height: 60vh;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23) ;
+    display: flex;
+    align-items: center;
+}
+
+.cont31{
+    background-color: #BF0426;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23) !important;
+}
+
+.cont32{
+    background-color: #023059;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23) !important;
+}
+
+.contf{
+    background-color: #CEECF2;
+}
+
+
+.btn{
+    background-color: #F20F38 !important;
+    border-color: #F20F38 !important;
+}
+.btn:hover{
+    background-color: #BF0426 !important;
+    border-color: #BF0426 !important;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+.fa-headset{
+    font-size: 80px;
+    color: #CEECF2;
+}
+
+@media (min-width: 768px) {
+    .cont3{
+        height: 37vh !important;
+    }
+}
+
+
+@media (min-width: 992px) { 
+    .cont3{
+        width: 100vh;
+        height: 37vh !important;
+        
+    }
+}
+
+@media (max-width: 576px) { 
+   .cont2{
+       overflow: scroll !important;
+       
+   }
+}
